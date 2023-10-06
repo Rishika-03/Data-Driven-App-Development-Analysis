@@ -9,3 +9,4 @@ the impact of pricing strategies, and how to maximize user ratings. The goal is 
 * Developed a ranking system to showcase top-rated apps within each genre.
 # Data Analysis Tools
 SQL and Tableau
+LINK: https://public.tableau.com/app/profile/rishika.sinha6064/viz/AppleAppStore/Dashboard1
